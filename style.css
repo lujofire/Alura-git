@@ -129,7 +129,7 @@ form label, form legend{
     font-size: 18px;
     font-weight: bold;
     color: white;
-    background: rgb(26, 156, 37);
+    background: orange;
     border: none;
     border-radius: 5px;
     transition: 1s;
@@ -138,7 +138,7 @@ form label, form legend{
 }
 
 .enviar:hover{
-    background: rgb(0, 255, 21);
+    background: darkorange;
     transform: scale(1.2);
     /*rotate(800deg) permite rotar el boton submit*/
 }
