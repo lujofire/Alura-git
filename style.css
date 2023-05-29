@@ -140,7 +140,7 @@ form label, form legend{
 .enviar:hover{
     background: darkorange;
     transform: scale(1.2);
-    /*rotate(800deg) permite rotar el boton submit*/
+    /*rotate(800deg) permite rotar el boton submit ...*/
 }
 
 table{
